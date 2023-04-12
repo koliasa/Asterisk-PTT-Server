@@ -1,4 +1,4 @@
-# Asterisk-PTT-Server - скрипт для автоматичної інсталяції та налаштувань Asterisk PTT сервера на базі CentOS
+# Скрипт для автоматичної інсталяції та налаштувань Asterisk PTT сервера на базі CentOS
 
 Відкрийте термінал на сервері з CentOS. Переконайтеся, що скрипт має права на виконання `chmod +x install_ptt_server.sh` Виконайте скрипт з правами адміністратора
 `sudo ./install_ptt_server.sh` Дочекайтеся завершення виконання скрипту та перезапустіть сервер Asterisk `sudo systemctl restart asterisk`
